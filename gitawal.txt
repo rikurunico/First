@@ -3,3 +3,11 @@ $ git add (nama filenya)
 $ git commit -m "(kasih nama label)"
 $ git push origin master
 $ git branch (nama yang mau di masukin)
+
+NOTES Day 1
+1. Git Clone
+2. Diedit/Tambah?hapus
+3. Git checkout -b [new branch]
+4. Git add
+5. Git commit -m "pesan"
+6. Git push origin [new branch]
